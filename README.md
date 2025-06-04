@@ -1,4 +1,9 @@
-## Hi there 👋
+<div align="center"> 
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Shu-Ying&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=dracula" /> 
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-Ying&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" /> 
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shu-Ying&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **Shu-Ying/Shu-Ying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
